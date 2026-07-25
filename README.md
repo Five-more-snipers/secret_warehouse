@@ -6,7 +6,7 @@ Dibangun dengan React + Vite + NET10 dengan Onboard Memory DB (SQLite).
 ## 🛠️ Tech Stack
 * **Frontend:** React, Vite, Axios, React Router v6.
 * **Backend:** .NET 10 ASP.NET Core Web API, Entity Framework (EF) Core.
-* ]**Database:** SQLite (Local/File-based DB).
+* **Database:** SQLite (Local/File-based DB).
 
 ## ✨ Fitur Utama
 
